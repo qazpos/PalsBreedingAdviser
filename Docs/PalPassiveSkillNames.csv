@@ -1,0 +1,78 @@
+CraftSpeed_down1;Slacker;Неуклюжий
+CraftSpeed_down2;Clumsy;Халтурщик
+CraftSpeed_up1;Serious;Старательный
+CraftSpeed_up2;Artisan;Мастеровитый
+Deffence_down1;Downtrodden;Мягкотелый
+Deffence_down2;Brittle;Хрупкие кости
+Deffence_up1;Hard Skin;Толстокожий
+Deffence_up2;Burly Body;Здоровяк
+ElementBoost_Aqua_1_PAL;Hydromaniac;Любитель водных игр
+ElementBoost_Aqua_2_PAL;Lord of the Sea;Владыка морей
+ElementBoost_Dark_1_PAL;Veil of Darkness;Покров ночи
+ElementBoost_Dark_2_PAL;Lord of the Underworld;Король тьмы
+ElementBoost_Dragon_1_PAL;Blood of the Dragon;Драконья кровь
+ElementBoost_Dragon_2_PAL;Divine Dragon;Божественный дракон
+ElementBoost_Earth_1_PAL;Power of Gaia;Сила земли
+ElementBoost_Earth_2_PAL;Earth Emperor;Властелин земли
+ElementBoost_Fire_1_PAL;Pyromaniac;Играющий с огнем
+ElementBoost_Fire_2_PAL;Flame Emperor;Властелин пламени
+ElementBoost_Ice_1_PAL;Coldblooded;Холоднокровный
+ElementBoost_Ice_2_PAL;Ice Emperor;Властелин льда
+ElementBoost_Leaf_1_PAL;Fragrant Foliage;Аромат трав
+ElementBoost_Leaf_2_PAL;Spirit Emperor;Король духов
+ElementBoost_Normal_1_PAL;Zen Mind;Чистое сознание
+ElementBoost_Normal_2_PAL;Celestial Emperor;Небесный защитник
+ElementBoost_Thunder_1_PAL;Capacitor;Конденсатор
+ElementBoost_Thunder_2_PAL;Lord of Lightning;Властелин грома
+ElementResist_Aqua_1_PAL;Waterproof;Водонепроницаемость
+ElementResist_Dark_1_PAL;Cheery;Светлое создание
+ElementResist_Dragon_1_PAL;Dragonkiller;Убийца драконов
+ElementResist_Earth_1_PAL;Earthquake Resistant;Сейсмостойкость
+ElementResist_Fire_1_PAL;Suntan Lover;Любитель загара
+ElementResist_Ice_1_PAL;Heated Body;Теплокровность
+ElementResist_Leaf_1_PAL;Botanical Barrier;Природная защита
+ElementResist_Normal_1_PAL;Abnormal;Аномальный
+ElementResist_Thunder_1_PAL;Insulated Body;Диэлектрик
+MoveSpeed_up_1;Nimble;Бойкий
+MoveSpeed_up_2;Runner;Умелый бегун
+MoveSpeed_up_3;Swift;Спринтер
+Noukin;Musclehead;Мистер мускул
+PAL_ALLAttack_down1;Coward;Трусливый
+PAL_ALLAttack_down2;Pacifist;Бегущий от проблем
+PAL_ALLAttack_up1;Brave;Отважный
+PAL_ALLAttack_up2;Ferocious;Свирепый
+PAL_conceited;Conceited;Тщеславный
+PAL_CorporateSlave;Work Slave;Работяга
+PAL_FullStomach_Down_1;Dainty Eater;Малоежка
+PAL_FullStomach_Down_2;Diet Lover;Гуру диет
+PAL_FullStomach_Up_1;Glutton;Чревоугодник
+PAL_FullStomach_Up_2;Bottomless Stomach;Бездонный желудок
+PAL_masochist;Masochist;Мазохист
+PAL_oraora;Aggressive;Настырный
+PAL_rude;Hooligan;Грубый
+PAL_sadist;Sadist;Садист
+PAL_Sanity_Down_1;Positive Thinker;Оптимист
+PAL_Sanity_Down_2;Workaholic;Трудоголик
+PAL_Sanity_Up_1;Unstable;Невротик
+PAL_Sanity_Up_2;Destructive;Фаталист
+Rare;Lucky;Счастливый
+TrainerATK_UP_1;Vanguard;Координатор штурмовых операций
+TrainerDEF_UP_1;Stronghold Strategist;Тактик неприступного оплота
+TrainerLogging_up1;Logging Foreman;Лидер лесозаготовок
+TrainerMining_up1;Mine Foreman;Начальник рудника
+TrainerWorkSpeed_UP_1;Motivational Leader;Мотиватор
+Legend;Legend;Легенда
+Witch;Siren of the Void;Ведьма
+NonKilling;Mercy Hit;Сдерживание силы
+Alien;Otherworldly Cells;Неизвестные биоклетки
+CoolTimeReduction_Down_1;Easygoing;Неторопливый
+CoolTimeReduction_Up_1;Serenity;Спокойствие
+CoolTimeReduction_Up_2;Impatient;Импульсивный
+EternalFlame;Eternal Flame;Вечное пламя
+SalePrice_Down_1;Shabby;Неприглядный
+SalePrice_Up_1;Noble;Ценный
+SalePrice_Up_2;Fine Furs;Ценная шкура
+Stamina_Down_1;Sickly;Замкнутый
+Stamina_Up_1;Infinite Stamina;Бесконечная выносливость
+Stamina_Up_2;Fit as a Fiddle;Здоровяк
+Test_PalEgg_HatchingSpeed_Up;Philantrophist;Филантроп

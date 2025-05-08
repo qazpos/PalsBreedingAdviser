@@ -1,0 +1,942 @@
+{
+  "NightLady": {
+    "BreedingPower": 1,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "NightLady_Dark": {
+    "BreedingPower": 1,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "KingBahamut_Dragon": {
+    "BreedingPower": 9,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "KingBahamut": {
+    "BreedingPower": 10,
+    "TieBreakOrder": 53,
+    "FollowBreedingRule": true
+  },
+  "Suzaku_Water": {
+    "BreedingPower": 30,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "Suzaku": {
+    "BreedingPower": 50,
+    "TieBreakOrder": 25,
+    "FollowBreedingRule": true
+  },
+  "BlackGriffon": {
+    "BreedingPower": 60,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "BlackCentaur": {
+    "BreedingPower": 70,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "SaintCentaur": {
+    "BreedingPower": 80,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "JetDragon": {
+    "BreedingPower": 90,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "IceHorse_Dark": {
+    "BreedingPower": 100,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "IceHorse": {
+    "BreedingPower": 120,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "WhiteTiger": {
+    "BreedingPower": 130,
+    "TieBreakOrder": 29,
+    "FollowBreedingRule": true
+  },
+  "ThunderDragonMan": {
+    "BreedingPower": 140,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "BlackMetalDragon": {
+    "BreedingPower": 150,
+    "TieBreakOrder": 77,
+    "FollowBreedingRule": true
+  },
+  "WhiteTiger_Ground": {
+    "BreedingPower": 160,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "SnowTigerBeastman": {
+    "BreedingPower": 170,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "HadesBird_Electric": {
+    "BreedingPower": 180,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "HadesBird": {
+    "BreedingPower": 190,
+    "TieBreakOrder": 97,
+    "FollowBreedingRule": true
+  },
+  "ElecPanda": {
+    "BreedingPower": 200,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "LilyQueen_Dark": {
+    "BreedingPower": 210,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "WhiteShieldDragon": {
+    "BreedingPower": 215,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": true
+  },
+  "ThunderBird": {
+    "BreedingPower": 220,
+    "TieBreakOrder": 91,
+    "FollowBreedingRule": true
+  },
+  "VolcanicMonster_Ice": {
+    "BreedingPower": 230,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "FireKirin_Dark": {
+    "BreedingPower": 240,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "Horus_Water": {
+    "BreedingPower": 245,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "DarkScorpion_Ground": {
+    "BreedingPower": 250,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "LilyQueen": {
+    "BreedingPower": 250,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "DarkScorpion": {
+    "BreedingPower": 260,
+    "TieBreakOrder": 107,
+    "FollowBreedingRule": true
+  },
+  "WingGolem": {
+    "BreedingPower": 265,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": true
+  },
+  "DarkMechaDragon": {
+    "BreedingPower": 265,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "LazyDragon_Electric": {
+    "BreedingPower": 270,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "HerculesBeetle_Ground": {
+    "BreedingPower": 275,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "LazyDragon": {
+    "BreedingPower": 280,
+    "TieBreakOrder": 40,
+    "FollowBreedingRule": true
+  },
+  "GrassMammoth_Ice": {
+    "BreedingPower": 290,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "GrassMammoth": {
+    "BreedingPower": 300,
+    "TieBreakOrder": 50,
+    "FollowBreedingRule": true
+  },
+  "Umihebi": {
+    "BreedingPower": 310,
+    "TieBreakOrder": 22,
+    "FollowBreedingRule": true
+  },
+  "Umihebi_Fire": {
+    "BreedingPower": 315,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "VolcanicMonster": {
+    "BreedingPower": 320,
+    "TieBreakOrder": 37,
+    "FollowBreedingRule": true
+  },
+  "QueenBee": {
+    "BreedingPower": 330,
+    "TieBreakOrder": 70,
+    "FollowBreedingRule": true
+  },
+  "HerculesBeetle": {
+    "BreedingPower": 340,
+    "TieBreakOrder": 92,
+    "FollowBreedingRule": true
+  },
+  "SkyDragon_Grass": {
+    "BreedingPower": 340,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "MoonQueen": {
+    "BreedingPower": 345,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "SkyDragon": {
+    "BreedingPower": 350,
+    "TieBreakOrder": 96,
+    "FollowBreedingRule": true
+  },
+  "ScorpionMan": {
+    "BreedingPower": 355,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": true
+  },
+  "FireKirin": {
+    "BreedingPower": 360,
+    "TieBreakOrder": 26,
+    "FollowBreedingRule": true
+  },
+  "NightBlueHorse": {
+    "BreedingPower": 365,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": true
+  },
+  "Horus": {
+    "BreedingPower": 370,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "RedArmorBird": {
+    "BreedingPower": 380,
+    "TieBreakOrder": 98,
+    "FollowBreedingRule": true
+  },
+  "GrassPanda_Electric": {
+    "BreedingPower": 390,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "BlueThunderHorse": {
+    "BreedingPower": 400,
+    "TieBreakOrder": 99,
+    "FollowBreedingRule": true
+  },
+  "MopKing": {
+    "BreedingPower": 410,
+    "TieBreakOrder": 88,
+    "FollowBreedingRule": true
+  },
+  "HawkBird": {
+    "BreedingPower": 420,
+    "TieBreakOrder": 68,
+    "FollowBreedingRule": true
+  },
+  "GrassPanda": {
+    "BreedingPower": 430,
+    "TieBreakOrder": 73,
+    "FollowBreedingRule": true
+  },
+  "WhiteAlienDragon": {
+    "BreedingPower": 435,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "KingAlpaca_Ice": {
+    "BreedingPower": 440,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "WhiteMoth": {
+    "BreedingPower": 450,
+    "TieBreakOrder": 56,
+    "FollowBreedingRule": true
+  },
+  "Yeti": {
+    "BreedingPower": 460,
+    "TieBreakOrder": 65,
+    "FollowBreedingRule": true
+  },
+  "DarkAlien": {
+    "BreedingPower": 465,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "KingAlpaca": {
+    "BreedingPower": 470,
+    "TieBreakOrder": 85,
+    "FollowBreedingRule": true
+  },
+  "Yeti_Grass": {
+    "BreedingPower": 480,
+    "TieBreakOrder": 66,
+    "FollowBreedingRule": true
+  },
+  "CuteButterfly": {
+    "BreedingPower": 490,
+    "TieBreakOrder": 106,
+    "FollowBreedingRule": true
+  },
+  "BlueDragon": {
+    "BreedingPower": 500,
+    "TieBreakOrder": 33,
+    "FollowBreedingRule": true
+  },
+  "GoldenHorse": {
+    "BreedingPower": 505,
+    "TieBreakOrder": 115,
+    "FollowBreedingRule": true
+  },
+  "NaughtyCat": {
+    "BreedingPower": 510,
+    "TieBreakOrder": 105,
+    "FollowBreedingRule": true
+  },
+  "CaptainPenguin": {
+    "BreedingPower": 520,
+    "TieBreakOrder": 94,
+    "FollowBreedingRule": true
+  },
+  "FairyDragon_Water": {
+    "BreedingPower": 530,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "FairyDragon": {
+    "BreedingPower": 540,
+    "TieBreakOrder": 27,
+    "FollowBreedingRule": true
+  },
+  "CandleGhost": {
+    "BreedingPower": 545,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": true
+  },
+  "Serpent_Ground": {
+    "BreedingPower": 550,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "Serpent": {
+    "BreedingPower": 560,
+    "TieBreakOrder": 31,
+    "FollowBreedingRule": true
+  },
+  "Anubis": {
+    "BreedingPower": 570,
+    "TieBreakOrder": 1,
+    "FollowBreedingRule": true
+  },
+  "Baphomet_Dark": {
+    "BreedingPower": 580,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "Baphomet": {
+    "BreedingPower": 590,
+    "TieBreakOrder": 2,
+    "FollowBreedingRule": true
+  },
+  "BirdDragon_Ice": {
+    "BreedingPower": 620,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "MysteryMask": {
+    "BreedingPower": 630,
+    "TieBreakOrder": 102,
+    "FollowBreedingRule": true
+  },
+  "Ronin": {
+    "BreedingPower": 640,
+    "TieBreakOrder": 101,
+    "FollowBreedingRule": true
+  },
+  "BadCatgirl": {
+    "BreedingPower": 645,
+    "TieBreakOrder": 100,
+    "FollowBreedingRule": true
+  },
+  "Ronin_Dark": {
+    "BreedingPower": 650,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "BirdDragon": {
+    "BreedingPower": 660,
+    "TieBreakOrder": 46,
+    "FollowBreedingRule": true
+  },
+  "SifuDog": {
+    "BreedingPower": 665,
+    "TieBreakOrder": 44,
+    "FollowBreedingRule": true
+  },
+  "Manticore_Dark": {
+    "BreedingPower": 670,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "FeatherOstrich": {
+    "BreedingPower": 675,
+    "TieBreakOrder": 45,
+    "FollowBreedingRule": true
+  },
+  "Kirin": {
+    "BreedingPower": 680,
+    "TieBreakOrder": 14,
+    "FollowBreedingRule": true
+  },
+  "CatMage_Fire": {
+    "BreedingPower": 690,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "CatMage": {
+    "BreedingPower": 700,
+    "TieBreakOrder": 89,
+    "FollowBreedingRule": true
+  },
+  "GhostRabbit": {
+    "BreedingPower": 705,
+    "TieBreakOrder": 114,
+    "FollowBreedingRule": true
+  },
+  "Manticore": {
+    "BreedingPower": 710,
+    "TieBreakOrder": 82,
+    "FollowBreedingRule": true
+  },
+  "MushroomDragon": {
+    "BreedingPower": 720,
+    "TieBreakOrder": 83,
+    "FollowBreedingRule": true
+  },
+  "GrimGirl": {
+    "BreedingPower": 725,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": true
+  },
+  "MushroomDragon_Dark": {
+    "BreedingPower": 730,
+    "TieBreakOrder": 84,
+    "FollowBreedingRule": true
+  },
+  "AmaterasuWolf_Dark": {
+    "BreedingPower": 735,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "ThunderDog": {
+    "BreedingPower": 740,
+    "TieBreakOrder": 75,
+    "FollowBreedingRule": true
+  },
+  "CatBat": {
+    "BreedingPower": 750,
+    "TieBreakOrder": 72,
+    "FollowBreedingRule": true
+  },
+  "BlueberryFairy": {
+    "BreedingPower": 755,
+    "TieBreakOrder": 110,
+    "FollowBreedingRule": true
+  },
+  "IceFox": {
+    "BreedingPower": 760,
+    "TieBreakOrder": 79,
+    "FollowBreedingRule": true
+  },
+  "FlowerDoll": {
+    "BreedingPower": 780,
+    "TieBreakOrder": 104,
+    "FollowBreedingRule": true
+  },
+  "WeaselDragon_Fire": {
+    "BreedingPower": 790,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "FlameBuffalo": {
+    "BreedingPower": 790,
+    "TieBreakOrder": 74,
+    "FollowBreedingRule": true
+  },
+  "KendoFrog": {
+    "BreedingPower": 795,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": true
+  },
+  "WeaselDragon": {
+    "BreedingPower": 800,
+    "TieBreakOrder": 95,
+    "FollowBreedingRule": true
+  },
+  "Werewolf_Ice": {
+    "BreedingPower": 805,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "FlowerDinosaur_Electric": {
+    "BreedingPower": 810,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "WhiteDeer": {
+    "BreedingPower": 815,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "FlowerDinosaur": {
+    "BreedingPower": 820,
+    "TieBreakOrder": 48,
+    "FollowBreedingRule": true
+  },
+  "PurpleSpider": {
+    "BreedingPower": 825,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": true
+  },
+  "AmaterasuWolf": {
+    "BreedingPower": 830,
+    "TieBreakOrder": 41,
+    "FollowBreedingRule": true
+  },
+  "FengyunDeeper_Electric": {
+    "BreedingPower": 835,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "SakuraSaurus_Water": {
+    "BreedingPower": 840,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "DrillGame": {
+    "BreedingPower": 850,
+    "TieBreakOrder": 8,
+    "FollowBreedingRule": true
+  },
+  "BerryGoat_Dark": {
+    "BreedingPower": 855,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "SakuraSaurus": {
+    "BreedingPower": 860,
+    "TieBreakOrder": 52,
+    "FollowBreedingRule": true
+  },
+  "FlyingManta": {
+    "BreedingPower": 870,
+    "TieBreakOrder": 103,
+    "FollowBreedingRule": true
+  },
+  "IceDeer": {
+    "BreedingPower": 880,
+    "TieBreakOrder": 55,
+    "FollowBreedingRule": true
+  },
+  "Alpaca": {
+    "BreedingPower": 890,
+    "TieBreakOrder": 30,
+    "FollowBreedingRule": true
+  },
+  "LazyCatfish": {
+    "BreedingPower": 895,
+    "TieBreakOrder": 109,
+    "FollowBreedingRule": true
+  },
+  "Deer_Ground": {
+    "BreedingPower": 900,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "LeafPrincess": {
+    "BreedingPower": 905,
+    "TieBreakOrder": 111,
+    "FollowBreedingRule": true
+  },
+  "CowPal": {
+    "BreedingPower": 910,
+    "TieBreakOrder": 64,
+    "FollowBreedingRule": true
+  },
+  "Deer": {
+    "BreedingPower": 920,
+    "TieBreakOrder": 7,
+    "FollowBreedingRule": true
+  },
+  "BerryGoat": {
+    "BreedingPower": 930,
+    "TieBreakOrder": 54,
+    "FollowBreedingRule": true
+  },
+  "PinkLizard": {
+    "BreedingPower": 940,
+    "TieBreakOrder": 59,
+    "FollowBreedingRule": true
+  },
+  "GuardianDog": {
+    "BreedingPower": 945,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": true
+  },
+  "Werewolf": {
+    "BreedingPower": 950,
+    "TieBreakOrder": 23,
+    "FollowBreedingRule": true
+  },
+  "FengyunDeeper": {
+    "BreedingPower": 980,
+    "TieBreakOrder": 36,
+    "FollowBreedingRule": true
+  },
+  "GrassRabbitMan": {
+    "BreedingPower": 990,
+    "TieBreakOrder": 78,
+    "FollowBreedingRule": true
+  },
+  "RobinHood_Ground": {
+    "BreedingPower": 1000,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "CatVampire": {
+    "BreedingPower": 1010,
+    "TieBreakOrder": 51,
+    "FollowBreedingRule": true
+  },
+  "RobinHood": {
+    "BreedingPower": 1020,
+    "TieBreakOrder": 39,
+    "FollowBreedingRule": true
+  },
+  "Eagle": {
+    "BreedingPower": 1030,
+    "TieBreakOrder": 9,
+    "FollowBreedingRule": true
+  },
+  "Gorilla_Ground": {
+    "BreedingPower": 1030,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "Gorilla": {
+    "BreedingPower": 1040,
+    "TieBreakOrder": 12,
+    "FollowBreedingRule": true
+  },
+  "VioletFairy": {
+    "BreedingPower": 1050,
+    "TieBreakOrder": 67,
+    "FollowBreedingRule": true
+  },
+  "Garm": {
+    "BreedingPower": 1060,
+    "TieBreakOrder": 11,
+    "FollowBreedingRule": true
+  },
+  "SoldierBee": {
+    "BreedingPower": 1070,
+    "TieBreakOrder": 71,
+    "FollowBreedingRule": true
+  },
+  "DarkCrow": {
+    "BreedingPower": 1080,
+    "TieBreakOrder": 32,
+    "FollowBreedingRule": true
+  },
+  "SharkKid": {
+    "BreedingPower": 1090,
+    "TieBreakOrder": 20,
+    "FollowBreedingRule": true
+  },
+  "SharkKid_Fire": {
+    "BreedingPower": 1100,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "Mutant": {
+    "BreedingPower": 1110,
+    "TieBreakOrder": 17,
+    "FollowBreedingRule": true
+  },
+  "RaijinDaughter_Water": {
+    "BreedingPower": 1115,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "LizardMan": {
+    "BreedingPower": 1120,
+    "TieBreakOrder": 42,
+    "FollowBreedingRule": true
+  },
+  "SmallArmadillo": {
+    "BreedingPower": 1125,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": true
+  },
+  "Boar": {
+    "BreedingPower": 1130,
+    "TieBreakOrder": 4,
+    "FollowBreedingRule": true
+  },
+  "LizardMan_Fire": {
+    "BreedingPower": 1140,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "FoxMage_Dark": {
+    "BreedingPower": 1150,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "GhostBeast": {
+    "BreedingPower": 1150,
+    "TieBreakOrder": 38,
+    "FollowBreedingRule": true
+  },
+  "FlameBambi": {
+    "BreedingPower": 1155,
+    "TieBreakOrder": 113,
+    "FollowBreedingRule": true
+  },
+  "FoxMage": {
+    "BreedingPower": 1160,
+    "TieBreakOrder": 58,
+    "FollowBreedingRule": true
+  },
+  "NightFox": {
+    "BreedingPower": 1180,
+    "TieBreakOrder": 93,
+    "FollowBreedingRule": true
+  },
+  "SweetsSheep": {
+    "BreedingPower": 1190,
+    "TieBreakOrder": 28,
+    "FollowBreedingRule": true
+  },
+  "MimicDog": {
+    "BreedingPower": 1200,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "PinkRabbit_Grass": {
+    "BreedingPower": 1205,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "RaijinDaughter": {
+    "BreedingPower": 1210,
+    "TieBreakOrder": 19,
+    "FollowBreedingRule": true
+  },
+  "CuteMole": {
+    "BreedingPower": 1220,
+    "TieBreakOrder": 76,
+    "FollowBreedingRule": true
+  },
+  "DreamDemon": {
+    "BreedingPower": 1230,
+    "TieBreakOrder": 80,
+    "FollowBreedingRule": true
+  },
+  "PlantSlime": {
+    "BreedingPower": 1240,
+    "TieBreakOrder": 86,
+    "FollowBreedingRule": true
+  },
+  "PlantSlime_Flower": {
+    "BreedingPower": 1240,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "BlackPuppy": {
+    "BreedingPower": 1245,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": true
+  },
+  "Monkey": {
+    "BreedingPower": 1250,
+    "TieBreakOrder": 81,
+    "FollowBreedingRule": true
+  },
+  "Kelpie": {
+    "BreedingPower": 1260,
+    "TieBreakOrder": 61,
+    "FollowBreedingRule": true
+  },
+  "Kelpie_Fire": {
+    "BreedingPower": 1270,
+    "TieBreakOrder": 62,
+    "FollowBreedingRule": true
+  },
+  "FlowerRabbit": {
+    "BreedingPower": 1280,
+    "TieBreakOrder": 69,
+    "FollowBreedingRule": true
+  },
+  "NegativeOctopus": {
+    "BreedingPower": 1290,
+    "TieBreakOrder": 63,
+    "FollowBreedingRule": true
+  },
+  "MopBaby": {
+    "BreedingPower": 1300,
+    "TieBreakOrder": 87,
+    "FollowBreedingRule": true
+  },
+  "Kitsunebi_Ice": {
+    "BreedingPower": 1305,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "PinkRabbit": {
+    "BreedingPower": 1310,
+    "TieBreakOrder": 90,
+    "FollowBreedingRule": true
+  },
+  "LittleBriarRose": {
+    "BreedingPower": 1320,
+    "TieBreakOrder": 16,
+    "FollowBreedingRule": true
+  },
+  "BluePlatypus": {
+    "BreedingPower": 1330,
+    "TieBreakOrder": 43,
+    "FollowBreedingRule": true
+  },
+  "ColorfulBird": {
+    "BreedingPower": 1340,
+    "TieBreakOrder": 6,
+    "FollowBreedingRule": true
+  },
+  "Penguin": {
+    "BreedingPower": 1350,
+    "TieBreakOrder": 18,
+    "FollowBreedingRule": true
+  },
+  "Hedgehog_Ice": {
+    "BreedingPower": 1360,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "Hedgehog": {
+    "BreedingPower": 1370,
+    "TieBreakOrder": 13,
+    "FollowBreedingRule": true
+  },
+  "NegativeKoala": {
+    "BreedingPower": 1380,
+    "TieBreakOrder": 35,
+    "FollowBreedingRule": true
+  },
+  "WizardOwl": {
+    "BreedingPower": 1390,
+    "TieBreakOrder": 60,
+    "FollowBreedingRule": true
+  },
+  "Kitsunebi": {
+    "BreedingPower": 1400,
+    "TieBreakOrder": 15,
+    "FollowBreedingRule": true
+  },
+  "LavaGirl": {
+    "BreedingPower": 1405,
+    "TieBreakOrder": 112,
+    "FollowBreedingRule": true
+  },
+  "ElecCat": {
+    "BreedingPower": 1410,
+    "TieBreakOrder": 49,
+    "FollowBreedingRule": true
+  },
+  "WindChimes": {
+    "BreedingPower": 1420,
+    "TieBreakOrder": 24,
+    "FollowBreedingRule": true
+  },
+  "WindChimes_Ice": {
+    "BreedingPower": 1422,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "Carbunclo": {
+    "BreedingPower": 1430,
+    "TieBreakOrder": 5,
+    "FollowBreedingRule": true
+  },
+  "Bastet_Ice": {
+    "BreedingPower": 1440,
+    "TieBreakOrder": 0,
+    "FollowBreedingRule": false
+  },
+  "CuteFox": {
+    "BreedingPower": 1450,
+    "TieBreakOrder": 57,
+    "FollowBreedingRule": true
+  },
+  "WoolFox": {
+    "BreedingPower": 1455,
+    "TieBreakOrder": 108,
+    "FollowBreedingRule": true
+  },
+  "PinkCat": {
+    "BreedingPower": 1460,
+    "TieBreakOrder": 34,
+    "FollowBreedingRule": true
+  },
+  "SheepBall": {
+    "BreedingPower": 1470,
+    "TieBreakOrder": 21,
+    "FollowBreedingRule": true
+  },
+  "Bastet": {
+    "BreedingPower": 1480,
+    "TieBreakOrder": 3,
+    "FollowBreedingRule": true
+  },
+  "Ganesha": {
+    "BreedingPower": 1490,
+    "TieBreakOrder": 10,
+    "FollowBreedingRule": true
+  },
+  "ChickenPal": {
+    "BreedingPower": 1500,
+    "TieBreakOrder": 47,
+    "FollowBreedingRule": true
+  }
+}

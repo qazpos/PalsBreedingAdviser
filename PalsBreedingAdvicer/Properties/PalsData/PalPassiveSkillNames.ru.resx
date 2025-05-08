@@ -1,0 +1,381 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Alien" xml:space="preserve">
+    <value>Неизвестные биоклетки</value>
+  </data>
+  <data name="CoolTimeReduction_Down_1" xml:space="preserve">
+    <value>Неторопливый</value>
+  </data>
+  <data name="CoolTimeReduction_Up_1" xml:space="preserve">
+    <value>Спокойствие</value>
+  </data>
+  <data name="CoolTimeReduction_Up_2" xml:space="preserve">
+    <value>Импульсивный</value>
+  </data>
+  <data name="CraftSpeed_down2" xml:space="preserve">
+    <value>Халтурщик</value>
+  </data>
+  <data name="CraftSpeed_down1" xml:space="preserve">
+    <value>Неуклюжий</value>
+  </data>
+  <data name="CraftSpeed_up1" xml:space="preserve">
+    <value>Старательный</value>
+  </data>
+  <data name="CraftSpeed_up2" xml:space="preserve">
+    <value>Мастеровитый</value>
+  </data>
+  <data name="Deffence_down1" xml:space="preserve">
+    <value>Мягкотелый</value>
+  </data>
+  <data name="Deffence_down2" xml:space="preserve">
+    <value>Хрупкие кости</value>
+  </data>
+  <data name="Deffence_up1" xml:space="preserve">
+    <value>Толстокожий</value>
+  </data>
+  <data name="Deffence_up2" xml:space="preserve">
+    <value>Здоровяк</value>
+  </data>
+  <data name="ElementBoost_Aqua_1_PAL" xml:space="preserve">
+    <value>Любитель водных игр</value>
+  </data>
+  <data name="ElementBoost_Aqua_2_PAL" xml:space="preserve">
+    <value>Владыка морей</value>
+  </data>
+  <data name="ElementBoost_Dark_1_PAL" xml:space="preserve">
+    <value>Покров ночи</value>
+  </data>
+  <data name="ElementBoost_Dark_2_PAL" xml:space="preserve">
+    <value>Король тьмы</value>
+  </data>
+  <data name="ElementBoost_Dragon_1_PAL" xml:space="preserve">
+    <value>Драконья кровь</value>
+  </data>
+  <data name="ElementBoost_Dragon_2_PAL" xml:space="preserve">
+    <value>Небесный дракон</value>
+  </data>
+  <data name="ElementBoost_Earth_1_PAL" xml:space="preserve">
+    <value>Сила земли</value>
+  </data>
+  <data name="ElementBoost_Earth_2_PAL" xml:space="preserve">
+    <value>Властелин земли</value>
+  </data>
+  <data name="ElementBoost_Fire_1_PAL" xml:space="preserve">
+    <value>Играющий с огнем</value>
+  </data>
+  <data name="ElementBoost_Fire_2_PAL" xml:space="preserve">
+    <value>Властелин пламени</value>
+  </data>
+  <data name="ElementBoost_Ice_1_PAL" xml:space="preserve">
+    <value>Холоднокровный</value>
+  </data>
+  <data name="ElementBoost_Ice_2_PAL" xml:space="preserve">
+    <value>Властелин льда</value>
+  </data>
+  <data name="ElementBoost_Leaf_1_PAL" xml:space="preserve">
+    <value>Аромат трав</value>
+  </data>
+  <data name="ElementBoost_Leaf_2_PAL" xml:space="preserve">
+    <value>Король духов</value>
+  </data>
+  <data name="ElementBoost_Normal_1_PAL" xml:space="preserve">
+    <value>Чистое сознание</value>
+  </data>
+  <data name="ElementBoost_Normal_2_PAL" xml:space="preserve">
+    <value>Небесный защитник</value>
+  </data>
+  <data name="ElementBoost_Thunder_1_PAL" xml:space="preserve">
+    <value>Конденсатор</value>
+  </data>
+  <data name="ElementBoost_Thunder_2_PAL" xml:space="preserve">
+    <value>Властелин грома</value>
+  </data>
+  <data name="ElementResist_Aqua_1_PAL" xml:space="preserve">
+    <value>Водостойкость</value>
+  </data>
+  <data name="ElementResist_Dark_1_PAL" xml:space="preserve">
+    <value>Светлое создание</value>
+  </data>
+  <data name="ElementResist_Dragon_1_PAL" xml:space="preserve">
+    <value>Убийца драконов</value>
+  </data>
+  <data name="ElementResist_Earth_1_PAL" xml:space="preserve">
+    <value>Сейсмостойкость</value>
+  </data>
+  <data name="ElementResist_Fire_1_PAL" xml:space="preserve">
+    <value>Любитель загара</value>
+  </data>
+  <data name="ElementResist_Ice_1_PAL" xml:space="preserve">
+    <value>Теплокровность</value>
+  </data>
+  <data name="ElementResist_Leaf_1_PAL" xml:space="preserve">
+    <value>Природная защита</value>
+  </data>
+  <data name="ElementResist_Normal_1_PAL" xml:space="preserve">
+    <value>Аномальный</value>
+  </data>
+  <data name="ElementResist_Thunder_1_PAL" xml:space="preserve">
+    <value>Диэлектрик</value>
+  </data>
+  <data name="EternalFlame" xml:space="preserve">
+    <value>Вечное пламя</value>
+  </data>
+  <data name="Legend" xml:space="preserve">
+    <value>Легенда</value>
+  </data>
+  <data name="MoveSpeed_up_1" xml:space="preserve">
+    <value>Бойкий</value>
+  </data>
+  <data name="MoveSpeed_up_2" xml:space="preserve">
+    <value>Умелый бегун</value>
+  </data>
+  <data name="MoveSpeed_up_3" xml:space="preserve">
+    <value>Спринтер</value>
+  </data>
+  <data name="Nocturnal" xml:space="preserve">
+    <value>Ночной образ жизни</value>
+  </data>
+  <data name="NonKilling" xml:space="preserve">
+    <value>Сдерживание силы</value>
+  </data>
+  <data name="Noukin" xml:space="preserve">
+    <value>Мистер мускул</value>
+  </data>
+  <data name="PAL_ALLAttack_down1" xml:space="preserve">
+    <value>Трусливый</value>
+  </data>
+  <data name="PAL_ALLAttack_down2" xml:space="preserve">
+    <value>Бегущий от проблем</value>
+  </data>
+  <data name="PAL_ALLAttack_up1" xml:space="preserve">
+    <value>Отважный</value>
+  </data>
+  <data name="PAL_ALLAttack_up2" xml:space="preserve">
+    <value>Свирепый</value>
+  </data>
+  <data name="PAL_conceited" xml:space="preserve">
+    <value>Тщеславный</value>
+  </data>
+  <data name="PAL_CorporateSlave" xml:space="preserve">
+    <value>Работяга</value>
+  </data>
+  <data name="PAL_FullStomach_Down_1" xml:space="preserve">
+    <value>Малоежка</value>
+  </data>
+  <data name="PAL_FullStomach_Down_2" xml:space="preserve">
+    <value>Гуру диет</value>
+  </data>
+  <data name="PAL_FullStomach_Up_1" xml:space="preserve">
+    <value>Чревоугодник</value>
+  </data>
+  <data name="PAL_FullStomach_Up_2" xml:space="preserve">
+    <value>Бездонный желудок</value>
+  </data>
+  <data name="PAL_masochist" xml:space="preserve">
+    <value>Мазохист</value>
+  </data>
+  <data name="PAL_oraora" xml:space="preserve">
+    <value>Настырный</value>
+  </data>
+  <data name="PAL_rude" xml:space="preserve">
+    <value>Грубый</value>
+  </data>
+  <data name="PAL_sadist" xml:space="preserve">
+    <value>Садист</value>
+  </data>
+  <data name="PAL_Sanity_Down_1" xml:space="preserve">
+    <value>Оптимист</value>
+  </data>
+  <data name="PAL_Sanity_Down_2" xml:space="preserve">
+    <value>Трудоголик</value>
+  </data>
+  <data name="PAL_Sanity_Up_1" xml:space="preserve">
+    <value>Невротик</value>
+  </data>
+  <data name="PAL_Sanity_Up_2" xml:space="preserve">
+    <value>Фаталист</value>
+  </data>
+  <data name="Rare" xml:space="preserve">
+    <value>Счастливый</value>
+  </data>
+  <data name="SalePrice_Down_1" xml:space="preserve">
+    <value>Неприглядный</value>
+  </data>
+  <data name="SalePrice_Up_1" xml:space="preserve">
+    <value>Ценный</value>
+  </data>
+  <data name="SalePrice_Up_2" xml:space="preserve">
+    <value>Ценная шкура</value>
+  </data>
+  <data name="Stamina_Down_1" xml:space="preserve">
+    <value>Замкнутый</value>
+  </data>
+  <data name="Stamina_Up_1" xml:space="preserve">
+    <value>Бесконечная выносливость</value>
+  </data>
+  <data name="Stamina_Up_2" xml:space="preserve">
+    <value>Здоровяк</value>
+  </data>
+  <data name="Test_PalEgg_HatchingSpeed_Up" xml:space="preserve">
+    <value>Филантроп</value>
+  </data>
+  <data name="TrainerATK_UP_1" xml:space="preserve">
+    <value>Военачальник</value>
+  </data>
+  <data name="TrainerDEF_UP_1" xml:space="preserve">
+    <value>Мастер обороны</value>
+  </data>
+  <data name="TrainerLogging_up1" xml:space="preserve">
+    <value>Лидер лесозаготовок</value>
+  </data>
+  <data name="TrainerMining_up1" xml:space="preserve">
+    <value>Начальник рудника</value>
+  </data>
+  <data name="TrainerWorkSpeed_UP_1" xml:space="preserve">
+    <value>Мотиватор</value>
+  </data>
+  <data name="Witch" xml:space="preserve">
+    <value>Ведьма</value>
+  </data>
+  <data name="PAL_FullStomach_Down_3" xml:space="preserve">
+    <value>Аскет</value>
+  </data>
+  <data name="Invader" xml:space="preserve">
+    <value>Захватчик</value>
+  </data>
+  <data name="Deffence_up3" xml:space="preserve">
+    <value>Алмазное тело</value>
+  </data>
+  <data name="PAL_ALLAttack_up3" xml:space="preserve">
+    <value>Чудовище</value>
+  </data>
+  <data name="PAL_Sanity_Down_3" xml:space="preserve">
+    <value>Непреклонный дух</value>
+  </data>
+  <data name="CraftSpeed_up3" xml:space="preserve">
+    <value>Мастер на все руки</value>
+  </data>
+  <data name="Stamina_Up_3" xml:space="preserve">
+    <value>Вечный двигатель</value>
+  </data>
+  <data name="Vampire" xml:space="preserve">
+    <value>Вампир</value>
+  </data>
+</root>

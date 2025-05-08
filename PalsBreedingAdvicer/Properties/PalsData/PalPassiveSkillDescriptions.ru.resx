@@ -1,0 +1,381 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Alien" xml:space="preserve">
+    <value>Атака +10%. Урон от огня -15%. Урон от электричества -15%</value>
+  </data>
+  <data name="CoolTimeReduction_Down_1" xml:space="preserve">
+    <value>Время перезарядки активного навыка +15%</value>
+  </data>
+  <data name="CoolTimeReduction_Up_1" xml:space="preserve">
+    <value>Время перезарядки активного навыка -30%. Атака +10%</value>
+  </data>
+  <data name="CoolTimeReduction_Up_2" xml:space="preserve">
+    <value>Время перезарядки активного навыка -15%</value>
+  </data>
+  <data name="CraftSpeed_down2" xml:space="preserve">
+    <value>Скорость работы -30%</value>
+  </data>
+  <data name="CraftSpeed_down1" xml:space="preserve">
+    <value>Скорость работы -10%</value>
+  </data>
+  <data name="CraftSpeed_up1" xml:space="preserve">
+    <value>Скорость работы +20%</value>
+  </data>
+  <data name="CraftSpeed_up2" xml:space="preserve">
+    <value>Скорость работы +50%</value>
+  </data>
+  <data name="Deffence_down1" xml:space="preserve">
+    <value>Защита -10%</value>
+  </data>
+  <data name="Deffence_down2" xml:space="preserve">
+    <value>Защита -20%</value>
+  </data>
+  <data name="Deffence_up1" xml:space="preserve">
+    <value>Защита +10%</value>
+  </data>
+  <data name="Deffence_up2" xml:space="preserve">
+    <value>Защита +20%</value>
+  </data>
+  <data name="ElementBoost_Aqua_1_PAL" xml:space="preserve">
+    <value>Водяной урон +10%</value>
+  </data>
+  <data name="ElementBoost_Aqua_2_PAL" xml:space="preserve">
+    <value>Водяной урон +20%</value>
+  </data>
+  <data name="ElementBoost_Dark_1_PAL" xml:space="preserve">
+    <value>Темный урон +10%</value>
+  </data>
+  <data name="ElementBoost_Dark_2_PAL" xml:space="preserve">
+    <value>Темный урон +20%</value>
+  </data>
+  <data name="ElementBoost_Dragon_1_PAL" xml:space="preserve">
+    <value>Драконический урон +10%</value>
+  </data>
+  <data name="ElementBoost_Dragon_2_PAL" xml:space="preserve">
+    <value>Драконический урон +20%</value>
+  </data>
+  <data name="ElementBoost_Earth_1_PAL" xml:space="preserve">
+    <value>Земляной урон +10%</value>
+  </data>
+  <data name="ElementBoost_Earth_2_PAL" xml:space="preserve">
+    <value>Земляной урон +20%</value>
+  </data>
+  <data name="ElementBoost_Fire_1_PAL" xml:space="preserve">
+    <value>Огненный урон +10%.</value>
+  </data>
+  <data name="ElementBoost_Fire_2_PAL" xml:space="preserve">
+    <value>Огненный урон +20%</value>
+  </data>
+  <data name="ElementBoost_Ice_1_PAL" xml:space="preserve">
+    <value>Ледяной урона +10%</value>
+  </data>
+  <data name="ElementBoost_Ice_2_PAL" xml:space="preserve">
+    <value>Ледяной урона +20%</value>
+  </data>
+  <data name="ElementBoost_Leaf_1_PAL" xml:space="preserve">
+    <value>Травяной урон +10%</value>
+  </data>
+  <data name="ElementBoost_Leaf_2_PAL" xml:space="preserve">
+    <value>Травяной урон +20%</value>
+  </data>
+  <data name="ElementBoost_Normal_1_PAL" xml:space="preserve">
+    <value>Чистый урон +10%</value>
+  </data>
+  <data name="ElementBoost_Normal_2_PAL" xml:space="preserve">
+    <value>Чистый урон +20%</value>
+  </data>
+  <data name="ElementBoost_Thunder_1_PAL" xml:space="preserve">
+    <value>Грозовой урон +10%</value>
+  </data>
+  <data name="ElementBoost_Thunder_2_PAL" xml:space="preserve">
+    <value>Грозовой урон +20%</value>
+  </data>
+  <data name="ElementResist_Aqua_1_PAL" xml:space="preserve">
+    <value>Сокращение водяного урона +10%</value>
+  </data>
+  <data name="ElementResist_Dark_1_PAL" xml:space="preserve">
+    <value>Сокращение темного урона +10%</value>
+  </data>
+  <data name="ElementResist_Dragon_1_PAL" xml:space="preserve">
+    <value>Сокращение драконического урона +10%</value>
+  </data>
+  <data name="ElementResist_Earth_1_PAL" xml:space="preserve">
+    <value>Сокращение земляного урона +10%</value>
+  </data>
+  <data name="ElementResist_Fire_1_PAL" xml:space="preserve">
+    <value>Сокращение огненного урона +10%</value>
+  </data>
+  <data name="ElementResist_Ice_1_PAL" xml:space="preserve">
+    <value>Сокращение ледяного урона +10%</value>
+  </data>
+  <data name="ElementResist_Leaf_1_PAL" xml:space="preserve">
+    <value>Сокращение травяного урона +10%</value>
+  </data>
+  <data name="ElementResist_Normal_1_PAL" xml:space="preserve">
+    <value>Сокращение чистого урона +10%.</value>
+  </data>
+  <data name="ElementResist_Thunder_1_PAL" xml:space="preserve">
+    <value>Сокращение грозового урона +10%</value>
+  </data>
+  <data name="EternalFlame" xml:space="preserve">
+    <value>Огненный урон +30%. Грозовой урон +30%</value>
+  </data>
+  <data name="Legend" xml:space="preserve">
+    <value>Атака +20%. Защита +20%. Скорость передвижения +15%</value>
+  </data>
+  <data name="MoveSpeed_up_1" xml:space="preserve">
+    <value>Скорость перемещения +10%</value>
+  </data>
+  <data name="MoveSpeed_up_2" xml:space="preserve">
+    <value>Скорость перемещения +20%</value>
+  </data>
+  <data name="MoveSpeed_up_3" xml:space="preserve">
+    <value>Скорость перемещения +30%</value>
+  </data>
+  <data name="Nocturnal" xml:space="preserve">
+    <value>Активен даже в ночное время</value>
+  </data>
+  <data name="NonKilling" xml:space="preserve">
+    <value>Миротворец. Не может снизить здоровье цели до 0</value>
+  </data>
+  <data name="Noukin" xml:space="preserve">
+    <value>Атака +30%. Скорость работы -50%</value>
+  </data>
+  <data name="PAL_ALLAttack_down1" xml:space="preserve">
+    <value>Атака -10%</value>
+  </data>
+  <data name="PAL_ALLAttack_down2" xml:space="preserve">
+    <value>Атака -20%</value>
+  </data>
+  <data name="PAL_ALLAttack_up1" xml:space="preserve">
+    <value>Атака +10%</value>
+  </data>
+  <data name="PAL_ALLAttack_up2" xml:space="preserve">
+    <value>Атака +20%</value>
+  </data>
+  <data name="PAL_conceited" xml:space="preserve">
+    <value>Скорость работы +10%. Защита -10%</value>
+  </data>
+  <data name="PAL_CorporateSlave" xml:space="preserve">
+    <value>Скорость работы +30%. Атака -30%</value>
+  </data>
+  <data name="PAL_FullStomach_Down_1" xml:space="preserve">
+    <value>Уровень сытости падает медленно +10%</value>
+  </data>
+  <data name="PAL_FullStomach_Down_2" xml:space="preserve">
+    <value>Уровень сытости падает медленно +15%</value>
+  </data>
+  <data name="PAL_FullStomach_Up_1" xml:space="preserve">
+    <value>Уровень сытости падает быстро +10%</value>
+  </data>
+  <data name="PAL_FullStomach_Up_2" xml:space="preserve">
+    <value>Уровень сытости падает быстро +15%</value>
+  </data>
+  <data name="PAL_masochist" xml:space="preserve">
+    <value>Защита +15%. Атака -15%</value>
+  </data>
+  <data name="PAL_oraora" xml:space="preserve">
+    <value>Атака +10%. Защита -10%</value>
+  </data>
+  <data name="PAL_rude" xml:space="preserve">
+    <value>Атака +15%. Скорость работы -10%</value>
+  </data>
+  <data name="PAL_sadist" xml:space="preserve">
+    <value>Атака +15%. Защита -15%</value>
+  </data>
+  <data name="PAL_Sanity_Down_1" xml:space="preserve">
+    <value>Показатель рассудка падает медленно +10%</value>
+  </data>
+  <data name="PAL_Sanity_Down_2" xml:space="preserve">
+    <value>Показатель расcудка падает быстро +15%</value>
+  </data>
+  <data name="PAL_Sanity_Up_1" xml:space="preserve">
+    <value>Показатель расcудка падает быстро +10%</value>
+  </data>
+  <data name="PAL_Sanity_Up_2" xml:space="preserve">
+    <value>Показатель рассудка падает быстро +15%</value>
+  </data>
+  <data name="Rare" xml:space="preserve">
+    <value>Скорость работы +15%. Атака +15%</value>
+  </data>
+  <data name="SalePrice_Down_1" xml:space="preserve">
+    <value>Стоимость продажи -10%</value>
+  </data>
+  <data name="SalePrice_Up_1" xml:space="preserve">
+    <value>Стоимость продажи +5%</value>
+  </data>
+  <data name="SalePrice_Up_2" xml:space="preserve">
+    <value>Стоимость продажи +3%</value>
+  </data>
+  <data name="Stamina_Down_1" xml:space="preserve">
+    <value>Макс. Выносливость -25%</value>
+  </data>
+  <data name="Stamina_Up_1" xml:space="preserve">
+    <value>Макс. Выносливость +50%</value>
+  </data>
+  <data name="Stamina_Up_2" xml:space="preserve">
+    <value>Макс. Выносливость +25%</value>
+  </data>
+  <data name="Test_PalEgg_HatchingSpeed_Up" xml:space="preserve">
+    <value>Пока прикреплен к пастбищу свиданий, скорость производства яиц +100%</value>
+  </data>
+  <data name="TrainerATK_UP_1" xml:space="preserve">
+    <value>Атака игрока +10%</value>
+  </data>
+  <data name="TrainerDEF_UP_1" xml:space="preserve">
+    <value>Защита игрока +10%</value>
+  </data>
+  <data name="TrainerLogging_up1" xml:space="preserve">
+    <value>Эффективность рубки деревьев игрока +25%</value>
+  </data>
+  <data name="TrainerMining_up1" xml:space="preserve">
+    <value>Эффективность сбора игрока +25%</value>
+  </data>
+  <data name="TrainerWorkSpeed_UP_1" xml:space="preserve">
+    <value>Скорость работы игрока +25%</value>
+  </data>
+  <data name="Witch" xml:space="preserve">
+    <value>Тёмный урон +30%. Ледяной урон +30%</value>
+  </data>
+  <data name="Invader" xml:space="preserve">
+    <value>Темный урон +30%. Драконический урон +30%</value>
+  </data>
+  <data name="PAL_FullStomach_Down_3" xml:space="preserve">
+    <value>Уровень сытости падает медленно +20%</value>
+  </data>
+  <data name="Deffence_up3" xml:space="preserve">
+    <value>Алмазное тело</value>
+  </data>
+  <data name="PAL_ALLAttack_up3" xml:space="preserve">
+    <value>Чудовище</value>
+  </data>
+  <data name="PAL_Sanity_Down_3" xml:space="preserve">
+    <value>Непреклонный дух</value>
+  </data>
+  <data name="CraftSpeed_up3" xml:space="preserve">
+    <value>Скорость работы +75%</value>
+  </data>
+  <data name="Stamina_Up_3" xml:space="preserve">
+    <value>Макс. Выносливость +75%</value>
+  </data>
+  <data name="Vampire" xml:space="preserve">
+    <value>Поглощает часть наносимого урона восстанавливая ОЗ. Активен даже в ночное время</value>
+  </data>
+</root>

@@ -1,0 +1,684 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="SheepBall" xml:space="preserve">
+    <value>Ламболл</value>
+  </data>
+  <data name="PinkCat" xml:space="preserve">
+    <value>Каттива</value>
+  </data>
+  <data name="ChickenPal" xml:space="preserve">
+    <value>Чикипи</value>
+  </data>
+  <data name="Carbunclo" xml:space="preserve">
+    <value>Лифманк</value>
+  </data>
+  <data name="Kitsunebi" xml:space="preserve">
+    <value>Фокспаркс</value>
+  </data>
+  <data name="BluePlatypus" xml:space="preserve">
+    <value>Камоноске</value>
+  </data>
+  <data name="ElecCat" xml:space="preserve">
+    <value>Спаркит</value>
+  </data>
+  <data name="Monkey" xml:space="preserve">
+    <value>Танзи</value>
+  </data>
+  <data name="FlameBambi" xml:space="preserve">
+    <value>Руби</value>
+  </data>
+  <data name="Penguin" xml:space="preserve">
+    <value>Пенгуллет</value>
+  </data>
+  <data name="CaptainPenguin" xml:space="preserve">
+    <value>Пенкинг</value>
+  </data>
+  <data name="Hedgehog" xml:space="preserve">
+    <value>Джолтхог</value>
+  </data>
+  <data name="Hedgehog_Ice" xml:space="preserve">
+    <value>Джолтхог Крист</value>
+  </data>
+  <data name="PlantSlime" xml:space="preserve">
+    <value>Гумосс</value>
+  </data>
+  <data name="CuteFox" xml:space="preserve">
+    <value>Викси</value>
+  </data>
+  <data name="WizardOwl" xml:space="preserve">
+    <value>Хукрат</value>
+  </data>
+  <data name="Ganesha" xml:space="preserve">
+    <value>Тифант</value>
+  </data>
+  <data name="NegativeKoala" xml:space="preserve">
+    <value>Депрессо</value>
+  </data>
+  <data name="WoolFox" xml:space="preserve">
+    <value>Кремис</value>
+  </data>
+  <data name="DreamDemon" xml:space="preserve">
+    <value>Даэдрим</value>
+  </data>
+  <data name="Boar" xml:space="preserve">
+    <value>Рашоа</value>
+  </data>
+  <data name="NightFox" xml:space="preserve">
+    <value>Нокс</value>
+  </data>
+  <data name="CuteMole" xml:space="preserve">
+    <value>Фуддлер</value>
+  </data>
+  <data name="NegativeOctopus" xml:space="preserve">
+    <value>Килламари</value>
+  </data>
+  <data name="Bastet" xml:space="preserve">
+    <value>Мау</value>
+  </data>
+  <data name="Bastet_Ice" xml:space="preserve">
+    <value>Мау Крист</value>
+  </data>
+  <data name="FlyingManta" xml:space="preserve">
+    <value>Селарай</value>
+  </data>
+  <data name="Garm" xml:space="preserve">
+    <value>Дайэхаул</value>
+  </data>
+  <data name="ColorfulBird" xml:space="preserve">
+    <value>Токотоко</value>
+  </data>
+  <data name="FlowerRabbit" xml:space="preserve">
+    <value>Флопи</value>
+  </data>
+  <data name="CowPal" xml:space="preserve">
+    <value>Моззарина</value>
+  </data>
+  <data name="LittleBriarRose" xml:space="preserve">
+    <value>Бристла</value>
+  </data>
+  <data name="SharkKid" xml:space="preserve">
+    <value>Гобфин</value>
+  </data>
+  <data name="WindChimes" xml:space="preserve">
+    <value>Хангю</value>
+  </data>
+  <data name="GrassPanda" xml:space="preserve">
+    <value>Моссанда</value>
+  </data>
+  <data name="GrassPanda_Electric" xml:space="preserve">
+    <value>Моссанда Лакс</value>
+  </data>
+  <data name="SweetsSheep" xml:space="preserve">
+    <value>Вуллипоп</value>
+  </data>
+  <data name="BerryGoat" xml:space="preserve">
+    <value>Каприти</value>
+  </data>
+  <data name="Alpaca" xml:space="preserve">
+    <value>Мелпака</value>
+  </data>
+  <data name="Deer" xml:space="preserve">
+    <value>Иктирдир</value>
+  </data>
+  <data name="HawkBird" xml:space="preserve">
+    <value>Найтвинг</value>
+  </data>
+  <data name="PinkRabbit" xml:space="preserve">
+    <value>Риббани</value>
+  </data>
+  <data name="Baphomet" xml:space="preserve">
+    <value>Инсинерам</value>
+  </data>
+  <data name="Baphomet_Dark" xml:space="preserve">
+    <value>Инсинерам Нокт</value>
+  </data>
+  <data name="CuteButterfly" xml:space="preserve">
+    <value>Синнамос</value>
+  </data>
+  <data name="FlameBuffalo" xml:space="preserve">
+    <value>Арсокс</value>
+  </data>
+  <data name="LazyCatfish" xml:space="preserve">
+    <value>Думад</value>
+  </data>
+  <data name="DarkCrow" xml:space="preserve">
+    <value>Когнито</value>
+  </data>
+  <data name="LizardMan" xml:space="preserve">
+    <value>Лизпанк</value>
+  </data>
+  <data name="LizardMan_Fire" xml:space="preserve">
+    <value>Лизпанк Игнис</value>
+  </data>
+  <data name="Werewolf" xml:space="preserve">
+    <value>Лупмун</value>
+  </data>
+  <data name="Eagle" xml:space="preserve">
+    <value>Эрмург</value>
+  </data>
+  <data name="RobinHood" xml:space="preserve">
+    <value>Робинквилл</value>
+  </data>
+  <data name="Gorilla" xml:space="preserve">
+    <value>Горират</value>
+  </data>
+  <data name="SoldierBee" xml:space="preserve">
+    <value>Бигард</value>
+  </data>
+  <data name="QueenBee" xml:space="preserve">
+    <value>Элизаби</value>
+  </data>
+  <data name="NaughtyCat" xml:space="preserve">
+    <value>Гринтэйл</value>
+  </data>
+  <data name="MopBaby" xml:space="preserve">
+    <value>Сви</value>
+  </data>
+  <data name="MopKing" xml:space="preserve">
+    <value>Свипа</value>
+  </data>
+  <data name="WeaselDragon" xml:space="preserve">
+    <value>Чиллет</value>
+  </data>
+  <data name="Kirin" xml:space="preserve">
+    <value>Юнивольт</value>
+  </data>
+  <data name="ThunderDog" xml:space="preserve">
+    <value>Райхаунд</value>
+  </data>
+  <data name="AmaterasuWolf" xml:space="preserve">
+    <value>Кицун</value>
+  </data>
+  <data name="RaijinDaughter" xml:space="preserve">
+    <value>Даззи</value>
+  </data>
+  <data name="Mutant" xml:space="preserve">
+    <value>Лунарис</value>
+  </data>
+  <data name="FlowerDinosaur" xml:space="preserve">
+    <value>Диноссум</value>
+  </data>
+  <data name="Serpent" xml:space="preserve">
+    <value>Серфент</value>
+  </data>
+  <data name="Serpent_Ground" xml:space="preserve">
+    <value>Серфент Терра</value>
+  </data>
+  <data name="GhostBeast" xml:space="preserve">
+    <value>Мараит</value>
+  </data>
+  <data name="DrillGame" xml:space="preserve">
+    <value>Дигтос</value>
+  </data>
+  <data name="CatBat" xml:space="preserve">
+    <value>Томбат</value>
+  </data>
+  <data name="PinkLizard" xml:space="preserve">
+    <value>Ловандер</value>
+  </data>
+  <data name="LavaGirl" xml:space="preserve">
+    <value>Фламбелль</value>
+  </data>
+  <data name="BirdDragon" xml:space="preserve">
+    <value>Ванвирм</value>
+  </data>
+  <data name="BirdDragon_Ice" xml:space="preserve">
+    <value>Ванвирм Крист</value>
+  </data>
+  <data name="Ronin" xml:space="preserve">
+    <value>Буси</value>
+  </data>
+  <data name="ThunderBird" xml:space="preserve">
+    <value>Райберд</value>
+  </data>
+  <data name="RedArmorBird" xml:space="preserve">
+    <value>Рагнахавк</value>
+  </data>
+  <data name="CatMage" xml:space="preserve">
+    <value>Катресс</value>
+  </data>
+  <data name="FoxMage" xml:space="preserve">
+    <value>Виксен</value>
+  </data>
+  <data name="GrassRabbitMan" xml:space="preserve">
+    <value>Вердаш</value>
+  </data>
+  <data name="WhiteMoth" xml:space="preserve">
+    <value>Сибеликс</value>
+  </data>
+  <data name="FairyDragon" xml:space="preserve">
+    <value>Элфидран</value>
+  </data>
+  <data name="Kelpie" xml:space="preserve">
+    <value>Келпси</value>
+  </data>
+  <data name="Kelpie_Fire" xml:space="preserve">
+    <value>Келпси Игнис</value>
+  </data>
+  <data name="BlueDragon" xml:space="preserve">
+    <value>Азуроб</value>
+  </data>
+  <data name="WhiteTiger" xml:space="preserve">
+    <value>Криолинкс</value>
+  </data>
+  <data name="LazyDragon" xml:space="preserve">
+    <value>Релаксаурус</value>
+  </data>
+  <data name="LazyDragon_Electric" xml:space="preserve">
+    <value>Релаксаурус Лакс</value>
+  </data>
+  <data name="SakuraSaurus" xml:space="preserve">
+    <value>Брончерри</value>
+  </data>
+  <data name="SakuraSaurus_Water" xml:space="preserve">
+    <value>Брончерри Аква</value>
+  </data>
+  <data name="FlowerDoll" xml:space="preserve">
+    <value>Петаллия</value>
+  </data>
+  <data name="VolcanicMonster" xml:space="preserve">
+    <value>Рептиро</value>
+  </data>
+  <data name="KingAlpaca" xml:space="preserve">
+    <value>Кингпака</value>
+  </data>
+  <data name="GrassMammoth" xml:space="preserve">
+    <value>Мамморест</value>
+  </data>
+  <data name="Yeti_Grass" xml:space="preserve">
+    <value>Вумпо Ботан</value>
+  </data>
+  <data name="HerculesBeetle" xml:space="preserve">
+    <value>Ворсект</value>
+  </data>
+  <data name="FengyunDeeper" xml:space="preserve">
+    <value>Фенглоп</value>
+  </data>
+  <data name="CatVampire" xml:space="preserve">
+    <value>Фелбэт</value>
+  </data>
+  <data name="SkyDragon" xml:space="preserve">
+    <value>Фэски</value>
+  </data>
+  <data name="HadesBird" xml:space="preserve">
+    <value>Хэлзефир</value>
+  </data>
+  <data name="BlackMetalDragon" xml:space="preserve">
+    <value>Астегон</value>
+  </data>
+  <data name="Anubis" xml:space="preserve">
+    <value>Анубис</value>
+  </data>
+  <data name="Suzaku" xml:space="preserve">
+    <value>Судзаку</value>
+  </data>
+  <data name="Suzaku_Water" xml:space="preserve">
+    <value>Судзаку Аква</value>
+  </data>
+  <data name="ElecPanda" xml:space="preserve">
+    <value>Гриззболт</value>
+  </data>
+  <data name="LilyQueen" xml:space="preserve">
+    <value>Лилин</value>
+  </data>
+  <data name="Horus" xml:space="preserve">
+    <value>Фалерис</value>
+  </data>
+  <data name="ThunderDragonMan" xml:space="preserve">
+    <value>Осерк</value>
+  </data>
+  <data name="BlackGriffon" xml:space="preserve">
+    <value>Шэдоубик</value>
+  </data>
+  <data name="FireKirin_Dark" xml:space="preserve">
+    <value>Пирин Нокт</value>
+  </data>
+  <data name="FireKirin" xml:space="preserve">
+    <value>Пирин</value>
+  </data>
+  <data name="Manticore_Dark" xml:space="preserve">
+    <value>Блейзхаул Нокт</value>
+  </data>
+  <data name="Manticore" xml:space="preserve">
+    <value>Блейзхаул</value>
+  </data>
+  <data name="VioletFairy" xml:space="preserve">
+    <value>Ваэлет</value>
+  </data>
+  <data name="SharkKid_Fire" xml:space="preserve">
+    <value>Гобфин Игнис</value>
+  </data>
+  <data name="IceDeer" xml:space="preserve">
+    <value>Рейндрикс</value>
+  </data>
+  <data name="VolcanicMonster_Ice" xml:space="preserve">
+    <value>Рептиро Крист</value>
+  </data>
+  <data name="Umihebi" xml:space="preserve">
+    <value>Йормунтайд</value>
+  </data>
+  <data name="DarkScorpion" xml:space="preserve">
+    <value>Менастинг</value>
+  </data>
+  <data name="FlowerDinosaur_Electric" xml:space="preserve">
+    <value>Диноссум Лакс</value>
+  </data>
+  <data name="LilyQueen_Dark" xml:space="preserve">
+    <value>Лилин Нокт</value>
+  </data>
+  <data name="GrassMammoth_Ice" xml:space="preserve">
+    <value>Мамморест Крист</value>
+  </data>
+  <data name="KingAlpaca_Ice" xml:space="preserve">
+    <value>Кингпака Крист</value>
+  </data>
+  <data name="Yeti" xml:space="preserve">
+    <value>Вумпо</value>
+  </data>
+  <data name="IceFox" xml:space="preserve">
+    <value>Фоксайкл</value>
+  </data>
+  <data name="WindChimes_Ice" xml:space="preserve">
+    <value>Хангю Крист</value>
+  </data>
+  <data name="Deer_Ground" xml:space="preserve">
+    <value>Иктирдир Тэрра</value>
+  </data>
+  <data name="RobinHood_Ground" xml:space="preserve">
+    <value>Робинквилл Терра</value>
+  </data>
+  <data name="Umihebi_Fire" xml:space="preserve">
+    <value>Йормунтайд Игнис</value>
+  </data>
+  <data name="FairyDragon_Water" xml:space="preserve">
+    <value>Элфидран Аква</value>
+  </data>
+  <data name="KingBahamut" xml:space="preserve">
+    <value>Блазамут</value>
+  </data>
+  <data name="PlantSlime_Flower" xml:space="preserve">
+    <value>Гумосс (с цветком)</value>
+  </data>
+  <data name="JetDragon" xml:space="preserve">
+    <value>Джетрагон</value>
+  </data>
+  <data name="IceHorse" xml:space="preserve">
+    <value>Фросталлион</value>
+  </data>
+  <data name="BlackCentaur" xml:space="preserve">
+    <value>Некромус</value>
+  </data>
+  <data name="SaintCentaur" xml:space="preserve">
+    <value>Паладиус</value>
+  </data>
+  <data name="IceHorse_Dark" xml:space="preserve">
+    <value>Фросталлион Нокт</value>
+  </data>
+  <data name="NightLady" xml:space="preserve">
+    <value>Бэллануар</value>
+  </data>
+  <data name="NightLady_Dark" xml:space="preserve">
+    <value>Бэллануар Либеро</value>
+  </data>
+  <data name="Gorilla_Ground" xml:space="preserve">
+    <value>Горират Терра</value>
+  </data>
+  <data name="WeaselDragon_Fire" xml:space="preserve">
+    <value>Чиллет Игнис</value>
+  </data>
+  <data name="Ronin_Dark" xml:space="preserve">
+    <value>Буси Нокт</value>
+  </data>
+  <data name="CatMage_Fire" xml:space="preserve">
+    <value>Катресс Игнис</value>
+  </data>
+  <data name="FoxMage_Dark" xml:space="preserve">
+    <value>Виксен Нокт</value>
+  </data>
+  <data name="SkyDragon_Grass" xml:space="preserve">
+    <value>Фэски Ботан</value>
+  </data>
+  <data name="KingBahamut_Dragon" xml:space="preserve">
+    <value>Блазамут Рю</value>
+  </data>
+  <data name="HadesBird_Electric" xml:space="preserve">
+    <value>Хэлзефир Лакс</value>
+  </data>
+  <data name="DarkScorpion_Ground" xml:space="preserve">
+    <value>Менастинг Терра</value>
+  </data>
+  <data name="MoonQueen" xml:space="preserve">
+    <value>Селена</value>
+  </data>
+  <data name="KendoFrog" xml:space="preserve">
+    <value>Кроадзиро</value>
+  </data>
+  <data name="LeafPrincess" xml:space="preserve">
+    <value>Нежноцвет</value>
+  </data>
+  <data name="MushroomDragon" xml:space="preserve">
+    <value>Грибодракон</value>
+  </data>
+  <data name="MushroomDragon_Dark" xml:space="preserve">
+    <value>Шрумер Нокт</value>
+  </data>
+  <data name="SmallArmadillo" xml:space="preserve">
+    <value>Бронебол</value>
+  </data>
+  <data name="CandleGhost" xml:space="preserve">
+    <value>Гостлайт</value>
+  </data>
+  <data name="ScorpionMan" xml:space="preserve">
+    <value>Скорпио</value>
+  </data>
+  <data name="WingGolem" xml:space="preserve">
+    <value>Теранайт</value>
+  </data>
+  <data name="GuardianDog" xml:space="preserve">
+    <value>Якумо</value>
+  </data>
+  <data name="SifuDog" xml:space="preserve">
+    <value>Ванфу</value>
+  </data>
+  <data name="FeatherOstrich" xml:space="preserve">
+    <value>Дазему</value>
+  </data>
+  <data name="MimicDog" xml:space="preserve">
+    <value>Мимидог</value>
+  </data>
+  <data name="DarkAlien" xml:space="preserve">
+    <value>Зеноведа</value>
+  </data>
+  <data name="WhiteAlienDragon" xml:space="preserve">
+    <value>Зеногард</value>
+  </data>
+  <data name="BlueThunderHorse" xml:space="preserve">
+    <value>Азурмейн</value>
+  </data>
+  <data name="SnowTigerBeastman" xml:space="preserve">
+    <value>Бастигор</value>
+  </data>
+  <data name="HerculesBeetle_Ground" xml:space="preserve">
+    <value>Ворсект Терра</value>
+  </data>
+  <data name="GoldenHorse" xml:space="preserve">
+    <value>Гилдейн</value>
+  </data>
+  <data name="RaijinDaughter_Water" xml:space="preserve">
+    <value>Даззи Нокт</value>
+  </data>
+  <data name="BerryGoat_Dark" xml:space="preserve">
+    <value>Каприти Нокт</value>
+  </data>
+  <data name="AmaterasuWolf_Dark" xml:space="preserve">
+    <value>Кицун Нокт</value>
+  </data>
+  <data name="WhiteTiger_Ground" xml:space="preserve">
+    <value>Криолинкс Терра</value>
+  </data>
+  <data name="Werewolf_Ice" xml:space="preserve">
+    <value>Лупмун Крист</value>
+  </data>
+  <data name="GhostRabbit" xml:space="preserve">
+    <value>Найтмери</value>
+  </data>
+  <data name="BadCatgirl" xml:space="preserve">
+    <value>Няфия</value>
+  </data>
+  <data name="MysteryMask" xml:space="preserve">
+    <value>Омаскул</value>
+  </data>
+  <data name="BlueberryFairy" xml:space="preserve">
+    <value>Прунелия</value>
+  </data>
+  <data name="PinkRabbit_Grass" xml:space="preserve">
+    <value>Риббани Ботан</value>
+  </data>
+  <data name="WhiteDeer" xml:space="preserve">
+    <value>Селесдир</value>
+  </data>
+  <data name="WhiteShieldDragon" xml:space="preserve">
+    <value>Силвегис</value>
+  </data>
+  <data name="BlackPuppy" xml:space="preserve">
+    <value>Смоки</value>
+  </data>
+  <data name="GrimGirl" xml:space="preserve">
+    <value>Сплаттерина</value>
+  </data>
+  <data name="NightBlueHorse" xml:space="preserve">
+    <value>Старрион</value>
+  </data>
+  <data name="PurpleSpider" xml:space="preserve">
+    <value>Тарантрисс</value>
+  </data>
+  <data name="Horus_Water" xml:space="preserve">
+    <value>Фалерис Аква</value>
+  </data>
+  <data name="FengyunDeeper_Electric" xml:space="preserve">
+    <value>Фенглоп Лакс</value>
+  </data>
+  <data name="Kitsunebi_Ice" xml:space="preserve">
+    <value>Фокспаркс Крист</value>
+  </data>
+  <data name="DarkMechaDragon" xml:space="preserve">
+    <value>Зенолорд</value>
+  </data>
+</root>
